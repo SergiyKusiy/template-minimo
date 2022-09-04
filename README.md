@@ -1,2 +1,2 @@
 # template-minimo
-[Site link]([Site link](http://127.0.0.1:5500/src/index.html))
+[Site link](https://superlative-swan-d12b97.netlify.app/)
